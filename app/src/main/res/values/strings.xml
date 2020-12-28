@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CustomRadioGroupTutorial</string>
+    <string name="favourite_genre">Favourite Genre:</string>
+    <string name="metal">Metal</string>
+    <string name="classical">Classical</string>
+    <string name="pop">Pop</string>
+    <string name="jazz">Jazz</string>
+</resources>
